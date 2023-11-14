@@ -4,7 +4,12 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 ## List of Pages
 
-[👉🏾👉🏾👉🏾 List the pages you expect to have in your app, with a ⭐ next to pages you have wireframed]
+Account Page ⭐
+Home Page ⭐
+Home Details Page ⭐
+Appliance Details Page
+Search Appliance Page
+
 
 ## Wireframe 1: Account Page
 
