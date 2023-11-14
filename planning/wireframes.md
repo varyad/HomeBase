@@ -6,16 +6,19 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 [👉🏾👉🏾👉🏾 List the pages you expect to have in your app, with a ⭐ next to pages you have wireframed]
 
-## Wireframe 1: [page title]
+## Wireframe 1: Account Page
 
-[👉🏾👉🏾👉🏾 include wireframe 1]
+<img width="145" alt="image" src="https://github.com/varyad/HomeBase/assets/98564135/eba5c0ce-44fb-4311-b928-11dc6f51d35b">
 
-## Wireframe 2: [page title]
 
-[👉🏾👉🏾👉🏾 include wireframe 2]
+## Wireframe 2: Home Page
 
-## Wireframe 3: [page title]
+<img width="143" alt="image" src="https://github.com/varyad/HomeBase/assets/98564135/272cca70-2297-4f96-a008-268a1f65f5ec">
 
-[👉🏾👉🏾👉🏾 include wireframe 3]
+
+## Wireframe 3: Home Detail Page
+
+<img width="143" alt="image" src="https://github.com/varyad/HomeBase/assets/98564135/4c912fde-e9be-485b-a0c5-b2bbc52dd226">
+
 
 [👉🏾👉🏾👉🏾 include more wireframes as desired]
