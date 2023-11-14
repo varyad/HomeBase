@@ -4,7 +4,10 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 ## Create the List of Tables
 
-[👉🏾👉🏾👉🏾 List each table in your diagram]
+1. Users
+2. Homes
+3. Appliances
+4. Schedules
 
 ## Add the Entity Relationship Diagram
 
@@ -15,3 +18,6 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 | id | integer | primary key |
 | name | text | name of the shoe model |
 | ... | ... | ... |
+
+<img width="410" alt="image" src="https://github.com/varyad/HomeBase/assets/98564135/b25a1a20-39d4-42ee-be62-bf18e403b252">
+
