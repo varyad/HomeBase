@@ -1,8 +1,8 @@
-# [your app name here]
+# HomeBase
 
 CodePath WEB103 Final Project
 
-Designed and developed by: [your names here]
+Designed and developed by: Varun Yadav
 
 🔗 Link to deployed app:
 
@@ -10,11 +10,12 @@ Designed and developed by: [your names here]
 
 ### Description and Purpose
 
-[text goes here]
+
+HomeBase allows homeowners and landlords to keep track of home maintenance tasks. With HomeBase, users can input the details of their home, including the age and type of appliances, and the app will suggest a personalized maintenance schedule.
 
 ### Inspiration
 
-[text goes here]
+It can often be a struggle to keep track of home maintenacne tasks and waiting till something breaks can often be much more expensive than regular maintenacne. HomeBase will streamline the process towards good home health for homeowners and landlords. 
 
 ## Tech Stack
 
