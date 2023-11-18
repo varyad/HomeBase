@@ -11,7 +11,7 @@ This unit, be sure to complete all tasks listed below. To complete a task, place
 - [ ] Update the status of issues in your project board as you complete them
 - [ ] In `readme.md`, check off the features you have completed in this unit by adding a ✅ emoji in front of their title
   - [ ] Under each feature you have completed, **include a GIF** showing feature functionality
-- [ ] In this document, complete the **Reflection** section below
+- [X] In this document, complete the **Reflection** section below
 - [ ] 🚩🚩🚩**Complete the Final Project Feature Checklist section below**, detailing each feature you completed in the project (ONLY include features you implemented, not features you planned)
 - [ ] 🚩🚩🚩**Record a GIF showing a complete run-through of your app** that displays all the components included in the **Final Project Feature Checklist** below
   - [ ] Include this GIF in the **Final Demo GIF** section below
@@ -77,20 +77,23 @@ Complete the checklist below detailing each baseline, custom, and stretch featur
 
 ### 1. What went well during this unit?
 
-[👉🏾👉🏾👉🏾 your answer here]
+Was not able to finish. 
 
 ### 2. What were some challenges your group faced in this unit?
 
-[👉🏾👉🏾👉🏾 your answer here]
+Was not able to finish. 
+
 
 ### 3. What were some of the highlights or achievements that you are most proud of in this project?
 
-[👉🏾👉🏾👉🏾 your answer here]
+Was not able to finish. 
+
 
 ### 4. Reflecting on your web development journey so far, how have you grown since the beginning of the course?
 
-[👉🏾👉🏾👉🏾 your answer here]
+I gained a better understanding of how the backend interacts with the frontend.  
+
 
 ### 5. Looking ahead, what are your goals related to web development, and what steps do you plan to take to achieve them?
 
-[👉🏾👉🏾👉🏾 your answer here]
+I want to finish this app. 
